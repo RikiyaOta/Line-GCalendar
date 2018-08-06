@@ -1,0 +1,24 @@
+{
+  "name": "Line-GCalendar",
+  "version": "1.0.0",
+  "description": "Googleカレンダーの通知をLINEで知らせる機能。ソースコードのレプリカ（さすがにシークレットキーなどの情報は載せられないので）。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RikiyaOta/Line-GCalendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RikiyaOta/Line-GCalendar/issues"
+  },
+  "homepage": "https://github.com/RikiyaOta/Line-GCalendar#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.1.0",
+    "googleapis": "^32.0.0"
+  }
+}
